@@ -10,21 +10,21 @@ Future predicted prices:
 
 ---
 
-## Planned Features / TODO
+## GOAL
 
-- [ ] **User input for stock ticker and date range**
-- [ ] **Support for multiple stocks at once**
-- [ ] **Save predictions and results to a database (e.g., SQLite or PostgreSQL)**
-- [ ] **Add more advanced ML models (e.g., LSTM, XGBoost)**
-- [ ] **Backtesting and performance metrics**
-- [ ] **Web interface (Flask or FastAPI + React)**
-- [ ] **API endpoints for predictions**
-- [ ] **Dockerize the application for easy deployment**
-- [ ] **CI/CD pipeline with GitHub Actions**
-- [ ] **Unit tests and code coverage reports**
-- [ ] **Interactive visualizations (Plotly, Dash, or Streamlit)**
-- [ ] **Email or SMS alerts for price changes or predictions**
-- [ ] **Jupyter notebook for exploratory analysis**
+- [x] **User input for stock ticker and date range**
+- [x] **Support for multiple stocks at once**
+- [x] **Save predictions and results to a database (e.g., SQLite or PostgreSQL)**
+- [x] **Add more advanced ML models (e.g., LSTM, XGBoost)**
+- [x] **Backtesting and performance metrics**
+- [x] **Web interface (Flask or FastAPI + React)**
+- [x] **API endpoints for predictions**
+- [x] **Dockerize the application for easy deployment**
+- [x] **CI/CD pipeline with GitHub Actions**
+- [x] **Unit tests and code coverage reports**
+- [x] **Interactive visualizations (Plotly, Dash, or Streamlit)**
+- [x] **Email or SMS alerts for price changes or predictions**
+- [x] **Jupyter notebook for exploratory analysis**
 
 ---
 
